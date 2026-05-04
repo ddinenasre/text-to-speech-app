@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# Expo
+.expo/
+.expo-shared/
+
+# Build artifacts
+android/.gradle/
+android/app/build/
+android/app/src/main/res/mipmap-*/*.png
+android/app/src/main/res/drawable-*/*.png
+android/app/build.gradle
